@@ -1,0 +1,2 @@
+# GPHY-504
+MSU GIS Course
